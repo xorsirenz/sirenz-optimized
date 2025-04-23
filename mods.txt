@@ -19,6 +19,7 @@ fabric-api-0.119.2+1.21.4.jar
 fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar
 ferritecore-7.1.1-fabric.jar
 forcecloseloadingscreen-2.2.3.jar
+freecam-fabric-1.3.2+mc1.21.4.jar
 fullbrightnesstoggle-1.21.4-4.3.jar
 ImmediatelyFast-Fabric-1.8.0+1.21.4.jar
 lithium-fabric-0.15.1+mc1.21.4.jar
@@ -27,10 +28,11 @@ malilib-fabric-1.21.4-0.23.2.jar
 Marlow's Crystal Optimizer-1.21.X-1.0.3.jar
 minihud-fabric-1.21.4-0.34.4.jar
 modmenu-13.0.3.jar
-mods.txt
 NoChatReports-FABRIC-1.21.4-v2.11.0.jar
+NoRefreshScroll-1.21.4-1.0.11.jar
 owo-lib-0.12.20+1.21.4.jar
 potioncounter-1.7.0+mc1.21.2.jar
+removewardeneffect-0.0.2-1.20.5-6.jar
 replaymod-1.21.4-2.6.21.jar
 ServerChatSync-fabric-1.0.0.jar
 shadowhunter22s-config-library-6.1.0+1.21.2.jar
